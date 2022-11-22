@@ -79,3 +79,6 @@
                                                    0    6   5   8
                                                        /   /     \
                                                       2   4       9
+
+# Patika Profilim
+- [Abdullah Taş - Patika](https://app.patika.dev/AbdullahTas123)

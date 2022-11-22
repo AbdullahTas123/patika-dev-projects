@@ -27,3 +27,6 @@ Soru 1.2 Big-O gösterimini yazınız.
 
 ## Cevap 1.2 Big-O
 n, n/2, n,4 ... -> 2^x = n -> O(nlogn)
+
+# Patika Profilim
+- [Abdullah Taş - Patika](https://app.patika.dev/AbdullahTas123)
