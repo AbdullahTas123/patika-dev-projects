@@ -1,11 +1,11 @@
 # Soru 1
 [22,27,16,2,18,6] -> Insertion Sort
 
-Soru 1.1- Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+Soru 1.1 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-Soru 1.2- Big-O gösterimini yazınız.
+Soru 1.2 Big-O gösterimini yazınız.
 
-Soru 1.3- Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+Soru 1.3 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
   1. Average case: Aradığımız sayının ortada olması
   2. Worst case: Aradığımız sayının sonda olması
@@ -39,4 +39,4 @@ n*(n-1)/2 = O(n^2)
 - [2,3,4,8,7,9,5,15,6] -> [2,3,4,5,6,9,8,15,7]
 
 # Patika Profilim
-- [Abdullah Taş](https://app.patika.dev/AbdullahTas123)
+[Abdullah Taş](https://app.patika.dev/AbdullahTas123)
