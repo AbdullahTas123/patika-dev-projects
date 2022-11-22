@@ -14,7 +14,7 @@
 - 5 sayısı 3 ten büyük olduğu için sağ tarafa, 7 den küçük olduğu için sol tarafa
 
                                                         3
-                                                      /   \
+                                                          \
                                                            7
                                                           /
                                                          5
