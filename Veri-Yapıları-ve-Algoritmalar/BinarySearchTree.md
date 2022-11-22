@@ -34,51 +34,55 @@
                                                           / \
                                                          5   8
 
-- 6 sayısı 3 ten büyük olduğu için sağ tarafa, 1 den büyük olduğu için sağ tafa
+- 6 sayısı 3 ten büyük olduğu için sağ tarafa, 7 den küçük olduğu için sol tarafa, 5 den büyük olduğu için sağ tarafa
 
                                                         3
                                                       /   \
                                                      1      7
-                                                      \    / \
-                                                       6  5   8
+                                                           / \
+                                                          5   8
+                                                           \
+                                                            6
 
 - 0 sayısı 3 ten küçük olduğu için sol tarafa, 1 den küçük olduğu için sol tarafa
 
                                                         3
-                                                      /    \
-                                                     1       7
-                                                    /  \    / \
-                                                   0    6  5   8
+                                                      /   \
+                                                     1      7
+                                                    /      / \
+                                                   0      5   8
+                                                           \
+                                                            6
 
 - 9 sayısı 3 ten büyük olduğu için sağ tarafa, 7 den büyük olduğu için sağ tarafa, 8 den büyük olduğu için sağ tarafa
 
                                                         3
-                                                      /    \
-                                                     1       7
-                                                    /  \    / \
-                                                   0    6  5   8
-                                                                \
-                                                                 9
+                                                      /   \
+                                                     1      7
+                                                    /      / \
+                                                   0      5   8
+                                                           \   \
+                                                            6   9
 
 - 4 sayısı 3 ten büyük olduğu için sağ tarafa, 7 den küçük olduğu için sol tarafa, 5 ten küçük olduğu için sol tarafa
 
                                                         3
-                                                      /    \
-                                                     1       7
-                                                    /  \    / \
-                                                   0    6  5   8
-                                                          /     \
-                                                         4       9
+                                                      /   \
+                                                     1      7
+                                                    /      / \
+                                                   0      5   8
+                                                        /  \   \
+                                                       4    6   9
 
 - 2 sayısı 3 ten küçük olduğu için sol tarafa, 1 den büyük olduğu için sağ tarafa, 6 dan küçük olduğu için sol tarafa
 
                                                          3
                                                       /     \
                                                      1        7
-                                                    /  \     / \
-                                                   0    6   5   8
-                                                       /   /     \
-                                                      2   4       9
+                                                    / \      / \
+                                                   0   2    5   8
+                                                           /  \   \
+                                                          4    6   9
 
 # Patika Profilim
 - [Abdullah Taş - Patika](https://app.patika.dev/AbdullahTas123)
